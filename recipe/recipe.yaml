@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.2.1"
+  version: "2.2.2"
 
 package:
   name: pystac-ext-datacube
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-datacube/pystac_ext_datacube-${{ version }}.tar.gz
-  sha256: 80f7ecbc82dee5d713f2c6ad4f87cd01a7559c1f77fc9e51d2ff9bd06c4db5ae
+  sha256: 6b10f5f830f9911fe0f108a410cc1512d012d3040aa0014ca21def53697e755c
 
 build:
   number: 0
